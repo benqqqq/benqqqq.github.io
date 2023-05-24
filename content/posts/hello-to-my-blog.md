@@ -1,5 +1,5 @@
 ---
-title: "Hello to My Blog"
+title: "Hello to my blog"
 date: 2023-05-22T18:00:02+08:00
 draft: false
 ---
