@@ -7,6 +7,10 @@ theme = 'PaperMod'
 [[menu.main]]
     name = 'About'
     pageRef = '/about'
+
+[[menu.main]]
+    name = 'Tags'
+    pageRef = '/tags'
 #[[menu.main]]
 #    name = 'GitHub'
 #    url = 'https://github.com/benqqqq/'
