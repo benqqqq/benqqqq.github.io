@@ -15,7 +15,7 @@ You can use the keymap settings to find the corresponding action by keystroke or
    2. Use `cmd + f` to search for "keymap".
 
    {{< collapse summary="image" >}}
-   ![img.png](../keymap.png)
+   ![keymap.png](../keymap.png)
    {{< /collapse >}}
 
 
@@ -24,7 +24,7 @@ You can use the keymap settings to find the corresponding action by keystroke or
   * Use `cmd + shift + a`
 
    {{< collapse summary="image" >}}
-   ![img.png](../open-action.png)
+   ![open-action.png](../open-action.png)
    {{< /collapse >}}
 
 * **Select (all) occurrences** : This is useful when you want to change a variable name.
@@ -45,6 +45,16 @@ You can use the keymap settings to find the corresponding action by keystroke or
   {{< youtube 9HZbJnr5sKk >}} 
   {{< /collapse >}}
 
+
+* **Open in opposite group** : This feature is useful when you have a split window in your IDE
+and want to open the same file in the other panel. 
+It comes in handy when you are working with a long file 
+that requires editing while simultaneously referring to another position within the same file.
+    
+{{< collapse summary="image" >}}
+![open-in-opposite-group.png](../open-in-opposite-group.png)
+![open-in-opposite-group-2.png](../open-in-opposite-group-2.png)
+{{< /collapse >}}
 
 To be continued ...
 
