@@ -1,6 +1,6 @@
 baseURL = 'https://benqqqq.github.io/'
 languageCode = 'en-us'
-title = 'Code and Coffee'
+title = 'Let me make bug for you'
 theme = 'PaperMod'
 
 [menu]
