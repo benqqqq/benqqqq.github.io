@@ -1,6 +1,6 @@
 baseURL = 'https://benqqqq.github.io/'
 languageCode = 'en-us'
-title = 'Let me make bug for you'
+title = 'Tech blog'
 theme = 'PaperMod'
 
 [menu]
@@ -11,9 +11,9 @@ theme = 'PaperMod'
 [[menu.main]]
     name = 'Tags'
     pageRef = '/tags'
-#[[menu.main]]
-#    name = 'GitHub'
-#    url = 'https://github.com/benqqqq/'
+[[menu.main]]
+    name = 'GitHub'
+    url = 'https://github.com/benqqqq/'
 #[[menu.main]]
 #    name = 'LinkedIn'
 #    url = 'https://www.linkedin.com/in/ming-chi-wu-46122943/'
