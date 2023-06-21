@@ -2,7 +2,7 @@
 title: "How to Customize React Material Ui (to be continued ..)"
 date: 2023-06-19T16:33:01+08:00
 cover:
-    image: "cover.png"
+    image: "cover-how-to-customize-react-material-ui.png"   # XXX: find a way to put image inside posts directory
 ---
 
 I'd like to write this article to document the process of implementing a customized Date Picker using MUI. I will begin by discussing how I perceive this problem. During my research, I also came across others who shared similar ideas, which can be found here:
