@@ -22,6 +22,7 @@ https://gohugo.io/content-management/shortcodes/#figure
     src="../let-me-do-it-for-you.png" 
     title="let me do it for you"
     link="https://gohugo.io/content-management/shortcodes/#figure"
+    width="200"
 >}}
 
 ```md
@@ -29,6 +30,7 @@ https://gohugo.io/content-management/shortcodes/#figure
     src="../let-me-do-it-for-you.png" 
     title="let me do it for you"
     link="https://gohugo.io/content-management/shortcodes/#figure"
+    width="200"
 */>}}
 ```
 
