@@ -78,6 +78,6 @@ Next, I wondered if anyone had made a user interface for langchain. They have! H
 2. [SuperAgent](https://github.com/ladjs/superagent)
 3. [Flowise](https://github.com/FlowiseAI/Flowise)
 
-So, in the next phase, I plan to experiment with these tools.  
 
+I'm still wondering whether these tools will fit my requirement, that is the next step
 

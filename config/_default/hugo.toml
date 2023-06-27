@@ -1,6 +1,6 @@
 baseURL = 'https://benqqqq.github.io/'
 languageCode = 'en-us'
-title = 'Tech blog'
+title = 'mitch blog'
 theme = 'PaperMod'
 
 [menu]

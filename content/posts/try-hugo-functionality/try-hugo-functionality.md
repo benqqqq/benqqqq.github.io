@@ -11,12 +11,14 @@ Summary: 'Demo each cool functions / tips'
 
 ### ✨ Hugo Built-in 
 
-#### 🔰 Shortcode list in GitHub source code 
+---
+#### 🔰 Shortcode list in GitHub source code
 https://github.com/gohugoio/hugo/tree/99407c39ba92b3bfc569a505b05033e04b242e8d/tpl/tplimpl/embedded/templates/shortcodes
 Find parameter here
 
 
-#### 🔰 Figure 
+---
+#### 🔰 Figure
 https://gohugo.io/content-management/shortcodes/#figure
 {{< figure 
     src="../let-me-do-it-for-you.png" 
@@ -35,6 +37,7 @@ https://gohugo.io/content-management/shortcodes/#figure
 ```
 
 
+---
 #### 🔰 Escape shortcode
 https://liatas.com/posts/escaping-hugo-shortcodes/
 
@@ -46,6 +49,7 @@ add `/*`
 ```
 
 
+---
 #### 🔰 param
 https://gohugo.io/content-management/shortcodes/#param
 
@@ -54,6 +58,7 @@ https://gohugo.io/content-management/shortcodes/#param
 {{</* param title */>}}
 ```
 
+---
 #### 🔰 Youtube
 https://gohugo.io/content-management/shortcodes/#youtube
 
@@ -65,6 +70,7 @@ https://gohugo.io/content-management/shortcodes/#youtube
 
 ### 🎁 Supported by theme PaperMod 
 
+---
 #### 🔰Collapse
 https://github.com/benqqqq/hugo-PaperMod/blob/8c2f997ab398ad57d49c04ffbb6474c64adf2ec7/layouts/shortcodes/collapse.html
 
