@@ -152,6 +152,7 @@ mindmap
 
 And this is how it looks like (https://mermaid.live/)
 ```mermaid
+
 mindmap
     Refactoring((Refactoring))
         Components
@@ -183,8 +184,3 @@ mindmap
             Integration Testing
             End to End Testing
 ```
-
-
-
-
-
