@@ -58,8 +58,8 @@ jobs:
         run: |
           hugo \
             --gc \
+            --minify \
             --baseURL "${{ steps.pages.outputs.base_url }}/"
-#            --minify \  // HACK: workaround for making mermaid js work
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v1
         with:
