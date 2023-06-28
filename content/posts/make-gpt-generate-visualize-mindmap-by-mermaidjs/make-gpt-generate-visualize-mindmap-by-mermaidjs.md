@@ -152,7 +152,6 @@ mindmap
 
 And this is how it looks like (https://mermaid.live/)
 ```mermaid
-
 mindmap
     Refactoring((Refactoring))
         Components
