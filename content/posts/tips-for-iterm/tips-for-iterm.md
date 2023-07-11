@@ -1,5 +1,5 @@
 ---
-title: "Tips for Iterm"
+title: "Tips for iTerm"
 date: 2023-07-11T21:48:04+08:00
 showToc: true
 tocOpen: true
