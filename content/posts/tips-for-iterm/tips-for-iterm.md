@@ -10,18 +10,19 @@ Here are multiple commands that I commonly use.
 
 ## Split window
 ---
-`cmd + d` for vertical split
-
-`cmd + shift + d` for horizontal split
-
-when the window is split, use `cmd + [` or `cmd + ]` to switch between them.
-
+- To split the iTerm window vertically, use the shortcut `cmd + d`. 
+- To split the window horizontally, use `cmd + shift + d`.
+- Once the window is split, you can switch between the panes using `cmd + [` or `cmd + ]`.
+- Once the window is split, you can use `cmd + shift + enter` to maximize active pane.
 
 ## Broadcast input
 ---
-Sometimes I need to control many console at the same time, such as there are multiple remote machine to control, 
-and I don't want to something like tmux, I will use broadcast input.
-This trick will make every pane listen to your keyboard stroke
+
+Sometimes I need to control multiple consoles simultaneously,
+such as when managing multiple remote machines,
+I will use the broadcast input feature.
+This makes every pane listen to my keyboard strokes.
+(Tip: This is a handy alternative to using tools like tmux.)
 
 {{< figure
     src="../broadcast-input.png"
@@ -31,8 +32,9 @@ This trick will make every pane listen to your keyboard stroke
 ## Alert on next mark 
 ---
 
-When I have a long run job, I will use this function to send the alert when the job is done.
-(this doesn't work on remote machine)
+To receive an alert when a long-running job is done, 
+I will use the "**Alert on Next Mark**" feature in iTerm.
+Please note that this function does not work on remote machines.
 
 {{< figure
 src="../alert-on-next-mark.png"
@@ -43,9 +45,12 @@ width="400"
 ## Copy Mode
 ---
 
-I always use copy mode to copy a command in the history or in the current pane.
+To copy a command from the history or within the current pane,
+I will use the copy mode in iTerm.
 
 {{< figure
 src="../copy-mode.png"
 width="400"
 >}}
+
+
