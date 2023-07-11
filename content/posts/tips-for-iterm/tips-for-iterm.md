@@ -6,7 +6,7 @@ tocOpen: true
 ---
 
 
-The following command is one that I commonly use.
+Here are multiple commands that I commonly use.
 
 ## Split window
 ---
